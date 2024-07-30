@@ -1,2 +1,2 @@
 # MNIST_TEST
-first construct MNIST CNN model and test how to upload on Gituhub
+first construct MNIST CNN model and test how to upload on Github
